@@ -2,7 +2,7 @@
 
 O **MType Editor** é uma aplicação web para organizar, extrair e padronizar famílias tipográficas **.ttf** e **.otf**, garantindo o agrupamento correto de pesos e estilos em sistemas operacionais e softwares diversos.
 
-Todo o processamento ocorre localmente no navegador, garantindo velocidade e total privacidade para arquivos e licenças comerciais.
+Todo o processamento ocorre localmente no navegador, garantindo velocidade e total privacidade para arquivos e licenças comerciais. URL: https://six4-mtype-editor.web.app/
 
 ## Principais Funcionalidades
 
