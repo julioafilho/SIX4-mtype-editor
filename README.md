@@ -8,7 +8,7 @@ Todo o processamento ocorre localmente no navegador, garantindo velocidade e tot
 
 A ferramenta conta com dois modos principais de operação:
 
-### 1. Fonte Variável (Extração de Instâncias)
+### 1. Fonte Variável - Extração de Instâncias
 
 Converte um arquivo de fonte variável em fontes estáticas independentes, prontas para instalação:
 
@@ -22,7 +22,7 @@ Converte um arquivo de fonte variável em fontes estáticas independentes, pront
 
 ---
 
-### 2. Fontes Estáticas (Renomeação em Lote)
+### 2. Fontes Estáticas - Renomear em Lote
 
 Padroniza coleções de fontes estáticas já separadas para que sejam reconhecidas como uma única família tipográfica:
 
